@@ -1,7 +1,7 @@
 # My Coding Portfolio
 ## 🚀 Projects
 
-### [CS-NCSM ](https://github.com/osama/data-processor)
+### [CS-NCSM ](https://github.com/Osama-Yaghi/cs-ncsm)
 - A numerical calculation of the energy levels of light nuclei within the complex-scaling and no-core shell model (CS-NCSM).
 - Wrote: Extend the NCSM with complex scaling.
          Prepare an extensive software for handling the ouput of the calculation, and visualize the results.
