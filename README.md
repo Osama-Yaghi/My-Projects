@@ -1,14 +1,31 @@
-# My Coding Portfolio
+# 🧠 My Coding Portfolio
+
 ## 🚀 Projects
 
-### [CS-NCSM, 2021-2025](https://github.com/Osama-Yaghi/cs-ncsm)
-- A numerical calculation of the energy levels of light nuclei within the complex-scaling and no-core shell model (CS-NCSM).
-- Wrote: I extended the NCSM code with complex scaling.
-         I Prepared an extensive software for handling the ouput of the calculation, and visualize the results.
-- Notes: Requires external data source (some examples are available)
+### [CS-NCSM (2021–2025)](https://github.com/Osama-Yaghi/cs-ncsm)  
+A numerical study of the energy levels of light nuclei using the Complex Scaling and No-Core Shell Model (CS-NCSM), originally developed by a large team of physicists, notably Petr Navratil and collaborators, TRIUMF . My work was in a collaboration with **Guillaume Hupin** at **Paris-Saclay (IJC-Lab)**, contributing to the theoretical and computational framework of the project.  
+**My contributions:**  
+- Extended the existing **Fortran-based** NCSM code to incorporate **complex scaling techniques**.  
+- Developed a **Python-based post-processing toolkit** to handle and visualize the outputs of large-scale computations.  
+- Contributed to **high-performance computing (HPC)** efforts, including code optimization to efficiently run on distributed systems (OpenMP).  
+- Implemented key **algebraic routines**, such as matrix diagonalization and solving linear differential equations.  
+**Note:** Requires external data sources (some examples included).
 
-### [Monte Carlo Simulation, 2020](https://github.com/Osama-Yaghi/atmospheric-muon-simulation-KM3net)
-- A monte carlo simulation of the muon flux at the detectors of the KM3NET experiment.
-- Wrote: The full python simulation code.
-### [Course assigments, 2020](https://github.com/Osama-Yaghi/course-assignments)
-- Various course assigments that I did during my Erasmus mundus Master studies (2019-2020).
+---
+
+### [Atmospheric Muon Monte Carlo Simulation (2020)](https://github.com/Osama-Yaghi/atmospheric-muon-simulation-KM3net)  
+A Monte Carlo simulation estimating the atmospheric muon flux at KM3NeT detector sites, developed as part of an internship at the **LPC Caen** in collaboration with **Benoît Guillon**.  
+**My contributions:**  
+- Wrote the entire **Python-based simulation code** from scratch, modeling the relevant physics processes for muon propagation and detection.  
+- Simulated the atmospheric muon flux, which is critical in evaluating the **background noise** in the experiment's signal.  
+- Optimized code for improved computational efficiency and scalability.  
+
+---
+
+### [Course Assignments (2019–2020)](https://github.com/Osama-Yaghi/course-assignments)  
+A collection of selected programming assignments completed during my Erasmus Mundus Master's studies.  
+**Topics include:**  
+- Numerical methods  
+- Computational physics  
+- Statistical simulations
+
