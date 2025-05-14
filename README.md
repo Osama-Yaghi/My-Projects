@@ -10,3 +10,5 @@
 ### [Monte Carlo Simulation, 2020](https://github.com/Osama-Yaghi/atmospheric-muon-simulation-KM3net)
 - A monte carlo simulation of the muon flux at the detectors of the KM3NET experiment.
 - Wrote: The full python simulation code.
+### [Course assigments, 2020](https://github.com/Osama-Yaghi/course-assignments)
+- Various course assigments that I did during my Erasmus mundus Master studies (2019-2020).
