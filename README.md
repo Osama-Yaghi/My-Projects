@@ -28,4 +28,10 @@ A collection of selected programming assignments completed during my Erasmus Mun
 - Numerical methods  
 - Computational physics  
 - Statistical simulations
+### Various examples and illustrations
+A collection of simple educational code that I wrote at different points in my learning journey.
+you can use them as a support while learning these topics. 
+
+**Topics include:**
+- [ML examples](https://github.com/Osama-Yaghi/ML-examples): including linear regression.
 
