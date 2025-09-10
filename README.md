@@ -1,7 +1,17 @@
 # 🧠 My Coding Portfolio
 
 ## 🚀 Projects
+### [Ad interaction prediction (2025)](https://github.com/Osama-Yaghi/ad-interaction-prediction)  
+A mini-project that focuses on **predicting user interactions with online advertisements** using machine learning models built in **TensorFlow/Keras**.  
 
+The notebook explores how preprocessing, model architecture, and evaluation metrics affect the performance of predictive models for three user behaviors:  
+- **label_view** – whether the user views an ad  
+- **label_click** – whether the user clicks on an ad  
+- **label_landing** – whether the user lands on the advertiser’s site or completes a purchase  
+
+---
+
+Accurate prediction of these events is crucial for improving **ad placement**, **user experience**, and **advertising revenue optimization**. 
 ### [CS-NCSM (2021–2025)](https://github.com/Osama-Yaghi/cs-ncsm)  
 A numerical study of the energy levels of light nuclei using the Complex Scaling and No-Core Shell Model (CS-NCSM), originally developed by a large team of physicists, notably Petr Navratil and collaborators, TRIUMF . My work was in a collaboration with **Guillaume Hupin** at **Paris-Saclay (IJC-Lab)**, contributing to the theoretical and computational framework of the project.  
 **My contributions:**  
