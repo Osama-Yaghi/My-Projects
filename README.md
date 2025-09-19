@@ -45,4 +45,5 @@ A collection of straightforward, educational code snippets I wrote throughout my
 
 **Topics include:**
 - [ML examples](https://github.com/Osama-Yaghi/ML-examples): including linear regression.
-
+## License
+Each project contains its own license file.
